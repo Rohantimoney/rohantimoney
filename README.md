@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rohan Beri
-**A passionate Software Developer Engineer || AI Engineer**
+**A passionate Software Developer Engineer**
 
 
 - 🔭 **I’m currently working on:** Fitness Planner
@@ -14,9 +14,9 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RohanBeri)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BK2nD1BrR/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohantimoney)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RohanBeri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-beri04?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rohantimoney)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berirohan04@gmail.com)
 
